@@ -1,28 +1,45 @@
-import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import { BrowserRouter as Router, Route } from "react-router-dom";
+import NavTabs from "./components/Navbar";
+import Home from "./components/pages/Home";
+import Footer from "./components/Footer";
+import GameImages from "./components/Game/Images";
 
-class App extends Component {
-  render() {
-    return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-        </header>
-      </div>
-    );
-  }
-}
+
+
+
+const App = () => (
+  <Router>
+    <div>
+      <NavTabs />
+      <Route path="/" component={Home} />
+    
+      <GameImages />
+      <Footer />
+    </div>
+  </Router>
+  
+);
+
+
+ 
+
+// class App extends Component {
+//   state = {
+//     score: [0]
+//   }
+
+// render() {
+//   return (
+//     <div className="App">
+//       {/*<MainPage />*/}
+//       <Navbar dayHandler = {this.dayHandler}/>
+//       <Calendar dayHandler = {this.dayHandler} selectableDays = {this.state.selectableDays}/>
+      
+     
+//     </div>
+//   );
+// }
+// }  
 
 export default App;

@@ -1,0 +1,10 @@
+h1, h3 {
+    text-align: center;
+    color: #f1f1f1;
+}
+
+.home-container {
+    background-image: url("./home-image/what-the-hex-dark.png");
+    background-color: #cccccc;
+    padding: 40px;
+ }
