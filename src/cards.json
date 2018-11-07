@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Black-Lion",
+    "image": "https://vignette.wikia.nocookie.net/voltronlegendarydefender/images/0/0d/Black_Lion.png/revision/latest?cb=20160726012026g",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Red-Lion",
+    "image": "http://i.imgur.com/l8XWffY.png",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "Voltron-Punch",
+    "image": "https://vignette.wikia.nocookie.net/voltronlegendarydefender/images/5/5d/Voltron2.png/revision/latest?cb=20170316232440",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Volt-Sword",
+    "image": "https://vignette.wikia.nocookie.net/voltronlegendarydefender/images/8/80/Voltron.png/revision/latest?cb=20160726011929g",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "Logo",
+    "image": "https://vignette.wikia.nocookie.net/dreamworkscomics/images/8/80/Voltron.png/revision/latest?cb=20150106054826",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Yellow",
+    "image": "https://vignette.wikia.nocookie.net/voltronlegendarydefender/images/7/7f/Hunk.png/revision/latest?cb=20160726011020",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "Blue",
+    "image": "https://vignette.wikia.nocookie.net/jadensadventures/images/8/86/Lance_%28Voltron%29.png/revision/latest?cb=20171009170730",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "Red",
+    "image": "https://vignette.wikia.nocookie.net/animal-jam-roleplay/images/8/80/Voltron.png/revision/latest?cb=20171124020202",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "Red2",
+    "image": "https://vignette.wikia.nocookie.net/doblaje/images/b/b3/Keith_%28Paladin%29_-_LD.png/revision/latest?cb=20180325235839&path-prefix=es",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "Pink",
+    "image": "https://vignette.wikia.nocookie.net/p__/images/4/4f/Allura_%28Armor%29_-_LD.png/revision/latest?cb=20170131102828&path-prefix=protagonist",
+    "count": 0
+  },
+  {
+    "id": 11,
+    "name": "Green",
+    "image": "https://ubisafe.org/images/vector-lion-voltron-4.png",
+    "count": 0
+  },
+  {
+    "id": 12,
+    "name": "Yellow-Lion",
+    "image": "https://mbtskoudsalg.com/images/transparent-voltron-yellow-1.png",
+    "count": 0
+  }
+]
